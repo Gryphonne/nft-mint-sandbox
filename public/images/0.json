@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #0",
+  "description": "An image of 0",
+  "image": "ipfs://QmQ7owi1CEfmgTaWDpCWTuCVtyEQmj3qmZomEDNQfCZLQu/0.png",
+  "dna": "78cd76bb28f7883d171c8ef03305472fa3aa73ec",
+  "edition": 20,
+  "date": 1642818122101,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Bottom RIght",
+      "value": "1733"
+    },
+    {
+      "trait_type": "Middle",
+      "value": "41"
+    },
+    {
+      "trait_type": "Middle Bottom",
+      "value": "1999"
+    },
+    {
+      "trait_type": "Top Left",
+      "value": "11"
+    },
+    {
+      "trait_type": "Top Right",
+      "value": "1303"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2",
+  "description": "An image of 2",
+  "image": "ipfs://NewUriToReplace/2.png",
+  "dna": "5ebfeae59f0bdb9d93c4e3f7b97be9e696e51967",
+  "edition": 2,
+  "date": 1642818121425,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "magenta"
+    },
+    {
+      "trait_type": "Bottom RIght",
+      "value": "2909"
+    },
+    {
+      "trait_type": "Middle",
+      "value": "251"
+    },
+    {
+      "trait_type": "Middle Bottom",
+      "value": "1999"
+    },
+    {
+      "trait_type": "Top Left",
+      "value": "2f"
+    },
+    {
+      "trait_type": "Top Right",
+      "value": "997"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
